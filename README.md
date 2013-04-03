@@ -1,3 +1,5 @@
+# simple-date
+
 Install 
 ```bash
 lein uberjar
@@ -6,8 +8,6 @@ lein install
 
 Add to lein deps
 ```clojure ["simple-date" "1.0.0"]```
-
-# simple-date
 
 ```clojure
 (ns simple-date.core)
